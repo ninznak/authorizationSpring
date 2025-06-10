@@ -4,7 +4,7 @@ import org.springframework.stereotype.Service;
 import ru.netology.springauthorization.authorities.Authorities;
 import ru.netology.springauthorization.exceptions.InvalidData;
 import ru.netology.springauthorization.exceptions.UnauthorizedUser;
-import ru.netology.springauthorization.reposytory.UserRepository;
+import ru.netology.springauthorization.repository.UserRepository;
 import java.util.List;
 
 @Service

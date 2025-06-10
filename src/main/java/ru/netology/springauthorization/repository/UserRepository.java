@@ -1,4 +1,4 @@
-package ru.netology.springauthorization.reposytory;
+package ru.netology.springauthorization.repository;
 
 import org.springframework.stereotype.Repository;
 import ru.netology.springauthorization.authorities.Authorities;
